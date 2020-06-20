@@ -7,7 +7,7 @@ var form;
 var player;
 var game;
 function setup(){
-    createCanvas(windowWidth,windowHeight);
+    createCanvas(500,600);
    
    database= firebase.database();
    game = new Game();
