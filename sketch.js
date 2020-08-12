@@ -21,13 +21,13 @@ function draw(){
     text("Enter Email",170,530);
     textSize(20);
     
-    text("Q-1 What is one change you would like to see? ",3,20);
-    text("Q-2 What motivates you to learn more?",3,80);
-    text("Q-3 What are the achievements you are proud of?",3,160);
-    text("Q-4Does your teacher encourage you to perform better?",1,245);
-    text("Q-5Does your teacher guide you in setting personal",1,300);
-    text("targets and developing strategies to achieve that target?",3,320);
-    text("Q-6 Was the survey useful to you?",3,400);
+   text("Q-1 Who was the first vice president of free India?",3,20);
+    text("Q-2 Who was the first to lead the Indian army?",3,80);
+    text("Q-3 For how many years british ruled India?",3,160);
+    text("Q-4 Who led the salt march?",3,245);
+    text("Q-5 Which country celebrate it's Independance Day ",3,300);
+    text("one day before of India?",39,320);
+    text("Q-6 Are you celebrating Independance?",3,400);
 }
 
 
